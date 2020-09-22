@@ -1,0 +1,11 @@
+.chat {
+  display: flex;
+  flex-direction: column;
+  flex: 0.65;
+}
+.sidebar_header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-right: 1px solid lightgray;
+}
